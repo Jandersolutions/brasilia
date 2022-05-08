@@ -4,10 +4,10 @@
 ### INSTALAÇÂO( todos os sistemas operacionais) :
 
 * BAIXE O ANACONDA E SIGA O PROCEDIMENTO DE INSTALAÇÃO -> <https://www.anaconda.com/products/distribution>
-* DIGITE NO PROMPT DE COMANDO -> conda create -n pythonrpa python=3
-* DIGITE NO PROMPT DE COMANDO -> conda deactivate 
-* DIGITE NO PROMPT DE COMANDO -> conda activate pythonrpa
-* DIGITE NO PROMPT DE COMANDO -> pip install pyautogui pyperclip pandas
+** conda create -n pythonrpa python=3
+** conda deactivate 
+** conda activate pythonrpa
+** pip install pyautogui pyperclip pandas
 
 
 
