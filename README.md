@@ -17,9 +17,9 @@
 OBSERVAÇOES:
 * por se tratar de um projeto RPA funcionara exclusivamente em desktop
 * Os testes foram realizados em monitor 1366 x 768, talvez seja necessario refazer as coordenadas x,y. 
-use o comando abaixo prar capturar coordenadas:
-#### time.sleep(5) 
-#### pyautogui.position
+use o comando abaixo para capturar coordenadas:
+##### time.sleep(5) 
+##### pyautogui.position
 
 
 
