@@ -3,3 +3,6 @@
 
 ### INSTALAÇÂO:
 
+* BAIXE O ANACONDA <https://www.anaconda.com/products/distribution>
+* 
+
