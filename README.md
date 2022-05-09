@@ -1,6 +1,7 @@
 ![logotio brasilia ](https://github.com/Jandersolutions/brasilia/blob/main/bg2.png?raw=true)
 
 # PROJETOS:
+#### DOCKER IMAGE DO PROJETO -> https://hub.docker.com/repository/docker/janderson1719/brasilia
 ### 1 - PROJETO RPA ( ROBOTIC PROCESS AUTOMATION ) <https://github.com/Jandersolutions/brasilia.git>
 
 ### INSTALAÇÂO( todos os sistemas operacionais) :
